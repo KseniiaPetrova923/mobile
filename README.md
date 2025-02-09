@@ -6,3 +6,5 @@
 [Ссылка на файл с отчетами о дефекте](https://github.com/KseniiaPetrova923/mobile/blob/main/Issues.xlsx)
 
 [Ссылка на файл с результатами тестового прогона](https://github.com/KseniiaPetrova923/mobile/blob/main/test_run.pdf)
+
+[Ссылка на файл Test Summary Report ](https://github.com/KseniiaPetrova923/mobile/blob/main/Test%20Summary%20Report.pdf)
