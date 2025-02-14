@@ -25,11 +25,18 @@ To analyze the quality of the shopping-list mobile application, I compiled a tes
 To test the shopping-list mobile application, I used a sniffer to intercept, modify and analyze HTTP requests. As part of testing, I completed the following tasks.
 
 *Changing the request to remove an item from the cart:
+
 Using a breakpoint, I intercepted a request to delete one product and changed it so that another product was deleted instead.
 
 *Simulation of content substitution:
+
 I set up interception of a request to https://demoshopping.ru and changed the response so that a random picture was loaded instead of the site.
 
 *Intercepting an HTTPS request from a mobile device:
+
 I analyzed the application’s network traffic and recorded one of the intercepted requests.
+
+[Charles Proxy](https://github.com/KseniiaPetrova923/mobile/blob/main/Charles%20proxy.mov)
+
+[Intercepted http request](https://github.com/KseniiaPetrova923/mobile/blob/main/http%20request.png)
 
