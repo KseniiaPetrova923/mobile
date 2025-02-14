@@ -9,7 +9,7 @@ I tested a mobile application "shopping-list", designed for creating and managin
 
 ## Functional testing:
 
-[Bug reports](https://github.com/KseniiaPetrova923/mobile/blob/main/Issues.xlsx)
+[Bug report](https://github.com/KseniiaPetrova923/mobile/blob/main/Issues.xlsx)
 
 [Test run results](https://github.com/KseniiaPetrova923/mobile/blob/main/test_run.pdf)
 
