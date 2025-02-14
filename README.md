@@ -23,6 +23,7 @@ To analyze the quality of the shopping-list mobile application, I compiled a tes
 -analysis of test coverage of key functionality.
 
 -conclusions about the current state of the product.
+
 [Test summary report ](https://github.com/KseniiaPetrova923/mobile/blob/main/Test%20Summary%20Report.pdf)
 
 ## Using of Charles Proxy:
